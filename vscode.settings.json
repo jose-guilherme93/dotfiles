@@ -1,0 +1,21 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "symbols",
+    "tailwind-fold.autoFold": false,
+    "terminal.integrated.fontWeight": "400",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "terminal.integrated.fontWeightBold": "600",
+    "editor.linkedEditing": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 11,
+    "terminal.integrated.fontFamily": "JetBrains mono",
+    "vsicons.dontShowNewVersionMessage": true,
+    "git.autofetch": true,
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.renderWhitespace": "none"
+}
